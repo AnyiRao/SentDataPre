@@ -1,5 +1,5 @@
 # Data preprocessing for Sentence Classification
-This is a full implementation of data preprocessing for a CNN and a b-LSTM. 
+This is a full implementation of data preprocessing for a CNN and a b-LSTM. Some of the codes are based on [Amit Mandelbaum's code](https://github.com/mangate/ConvNetSent).
 
 With this code you can reproduce almost all results presented on baselines and the results we present in our paper.
 
